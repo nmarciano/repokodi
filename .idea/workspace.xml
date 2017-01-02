@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d094a10e-482c-4edd-800a-03a1fad4c3a9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/exodus.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Croatian/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Dutch/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/English/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/French (Canada)/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/French/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/German/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Greek/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Hebrew/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Hungarian/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Polish/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Portuguese/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Serbian (Cyrillic)/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Slovenian/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Spanish (Argentina)/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Spanish (Mexico)/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/language/Spanish/strings.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/indexers/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/indexers/channels.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/indexers/episodes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/indexers/movies.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/indexers/navigator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/indexers/tvshows.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/changelog.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/cleandate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/cleangenre.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/cleantitle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/client.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/control.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/debrid.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/directstream.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/downloader.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/jsunpack.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/metacache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/playcount.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/player.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/proxy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/pyaes/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/pyaes/aes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/pyaes/blockfeeder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/pyaes/util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/trailer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/trakt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/tvmaze.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/modules/workers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/afdah_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/animeultima_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/bmoviez_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/crazy_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/dailyrls_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/dayt_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/ddls_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/ddlvalley_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/directdl_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/dizigold_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/dltube_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/einthusan_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/genvideo_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/gogoanime_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/hevcfilm_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/library_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/miradetodo_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/movie25_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/movie4k_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/moviefree_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/moviegee_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/movies14_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/movieshd_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/moviesplanet_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/moviexk_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/myvideolink_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/onemovies_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/onlinedizi_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/onlinemovies_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/onseries_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/openmovies_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/ororo_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/pelispedia_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/phdmovies_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/pmovies_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/primewire_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/pubfilm_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/putlocker_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/putlockerz_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/releasebb_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/rlshd_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/rlsmovies_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/scenedown_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/sceper_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/sezonlukdizi_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/streamlord_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/tinydl_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/torba_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/tunemovie_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/tvbmoviez_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/twoddl_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/watch32_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/watchfree_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/watchhd_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/watchseries_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/wmo_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/wrzcraft_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/xmovies_mv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/lib/sources/ymovies_mv_tv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.exodus/resources/settings.xml" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="repo_maker.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/repo_maker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="43" />
+    <option name="width" value="1260" />
+    <option name="height" value="669" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repokodi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repokodi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.repo_maker">
+    <configuration default="false" name="repo_maker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repokodi" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repo_maker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repokodi" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repokodi" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repokodi" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repokodi" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repokodi" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repokodi" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repokodi" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.repo_maker" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.repo_maker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d094a10e-482c-4edd-800a-03a1fad4c3a9" name="Default" comment="" />
+      <created>1483376688005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1483376688005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="43" width="1260" height="669" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/repo_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
